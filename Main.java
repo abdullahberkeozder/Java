@@ -20,7 +20,7 @@ public class Main {
         double total = (math + phys + eng + music + chem);
         double avarage = total / 5;
 
-        
-        System.out.println("Your Avarage Exam Notes: " + avarage);
+        String result = avarage > 60 ? "pass" : "not pass";
+        System.out.println("Your Avarage Exam Note: " + avarage + " => " + result);
     }
 }
