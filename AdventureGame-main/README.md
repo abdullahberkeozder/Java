@@ -1,4 +1,4 @@
-## Patika.dev kapsamında yaptığım macera oyunu projesi
+## Patika.dev Adventure Game
 
 ## ÖDEV
 
