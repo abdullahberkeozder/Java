@@ -1,6 +1,6 @@
 
 # Macera Oyunu
-Java ile metin tabanlı bir macera oyunu yapıyoruz.
+A text-based adventure game with Java.
 
 KARAKTERLER
 
